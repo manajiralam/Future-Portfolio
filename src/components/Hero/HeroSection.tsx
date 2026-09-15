@@ -126,7 +126,7 @@ export default function HeroSection() {
         >
           <div className="relative w-full max-w-md">
             <img
-              src="/src/Asset/Mitul2.0.png"
+              src="/public/Mitul2.0.png"
               alt=""
               className="rounded-[10px]"
             />
