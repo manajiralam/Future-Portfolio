@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { ArrowUpRight, Download, Sparkles } from 'lucide-react';
+import myImage from "../../Asset/Mitul2.0.png";
 
 const TYPING_TITLES = [
   "Graphic Designer",
@@ -126,7 +127,7 @@ export default function HeroSection() {
         >
           <div className="relative w-full max-w-md">
             <img
-              src="/public/Mitul2.0.png"
+              src={myImage}
               alt=""
               className="rounded-[10px]"
             />
