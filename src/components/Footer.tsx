@@ -12,9 +12,9 @@ export default function Footer() {
         {/* Brand */}
         <div className="flex items-center gap-3">
           <div className="w-8 h-8 rounded-lg bg-gradient-to-tr from-[#8A6D1C] to-[#D4AF37] flex items-center justify-center font-bold text-black text-xs">
-            AV
+            MA
           </div>
-          <span className="text-sm font-semibold text-white tracking-wider">ALEXANDER VANCE</span>
+          <span className="text-sm font-semibold text-white tracking-wider">MANAJIR ALAM</span>
         </div>
 
         {/* Copyright */}

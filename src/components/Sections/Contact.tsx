@@ -35,24 +35,24 @@ export default function Contact() {
             {/* Direct Contact Details */}
             <div className="space-y-4">
               {/* <!-- Replace email below with your email --> */}
-              <a href="mailto:alexander@example.com" className="flex items-center gap-4 p-4 rounded-xl glass-panel hover:border-[#D4AF37]/50 transition-all">
+              <a href="mailto:manajiralammitul@gmail.com" className="flex items-center gap-4 p-4 rounded-xl glass-panel hover:border-[#D4AF37]/50 transition-all">
                 <div className="p-3 rounded-xl bg-[#D4AF37]/10 text-[#D4AF37]">
                   <Mail className="w-5 h-5" />
                 </div>
                 <div>
                   <span className="text-xs text-gray-400 uppercase tracking-widest block">Email</span>
-                  <span className="text-sm font-semibold text-white">alexander@example.com</span>
+                  <span className="text-sm font-semibold text-white">manajiralammitul@gmail.com</span>
                 </div>
               </a>
 
               {/* <!-- Replace phone below with your phone --> */}
-              <a href="tel:+1234567890" className="flex items-center gap-4 p-4 rounded-xl glass-panel hover:border-[#D4AF37]/50 transition-all">
+              <a href="tel:+8801331383836" className="flex items-center gap-4 p-4 rounded-xl glass-panel hover:border-[#D4AF37]/50 transition-all">
                 <div className="p-3 rounded-xl bg-[#D4AF37]/10 text-[#D4AF37]">
                   <Phone className="w-5 h-5" />
                 </div>
                 <div>
                   <span className="text-xs text-gray-400 uppercase tracking-widest block">Phone</span>
-                  <span className="text-sm font-semibold text-white">+1 (555) 019-2834</span>
+                  <span className="text-sm font-semibold text-white">+8801331383836</span>
                 </div>
               </a>
 
@@ -62,7 +62,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <span className="text-xs text-gray-400 uppercase tracking-widest block">Location</span>
-                  <span className="text-sm font-semibold text-white">San Francisco, CA / Remote</span>
+                  <span className="text-sm font-semibold text-white">Noakhali , Bangladesh</span>
                 </div>
               </div>
             </div>
