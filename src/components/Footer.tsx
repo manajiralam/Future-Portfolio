@@ -19,7 +19,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <p className="text-xs font-mono text-gray-500">
-          © {new Date().getFullYear()} Alexander Vance. All Rights Reserved. Built for Awwwards.
+          © {new Date().getFullYear()} Manajir Alam. All Rights Reserved. Built for Awwwards.
         </p>
 
         {/* Back to Top */}
