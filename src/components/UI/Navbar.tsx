@@ -26,10 +26,10 @@ export default function Navbar() {
         {/* Brand Logo */}
         <a href="#" className="flex items-center gap-3 group">
           <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-[#8A6D1C] to-[#D4AF37] flex items-center justify-center font-bold text-black group-hover:scale-105 transition-transform">
-            AV
+            MA
           </div>
           <div className="flex flex-col">
-            <span className="text-sm font-bold tracking-wider text-white">ALEXANDER VANCE</span>
+            <span className="text-sm font-bold tracking-wider text-white">MANAJIR ALAM</span>
             <span className="text-[10px] font-mono text-[#D4AF37] uppercase tracking-widest">Portfolio</span>
           </div>
         </a>
