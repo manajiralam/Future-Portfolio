@@ -35,7 +35,7 @@ export default function Loader({ onFinish }: { onFinish: () => void }) {
           <div className="absolute inset-0 rounded-full border-2 border-[#D4AF37]/20 animate-ping" />
           <div className="w-20 h-20 rounded-2xl glass-panel border border-[#D4AF37]/50 flex items-center justify-center rotate-45 gold-glow-shadow">
             <span className="-rotate-45 text-2xl font-bold tracking-widest text-gold-gradient">
-              AV
+              MA
             </span>
           </div>
         </motion.div>
